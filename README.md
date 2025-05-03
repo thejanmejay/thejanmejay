@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janmejay Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Advance Java, Node**
+- 🌱 I’m currently learning **Advance Java,Automation Testing, API Testing, Node, Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
