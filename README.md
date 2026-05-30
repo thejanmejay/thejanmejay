@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janmejay Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Software Automation Engineer</h3>
 
 - 🌱 I’m currently learning **Advance Java,Automation Testing, API Testing, Node, Express**
 
